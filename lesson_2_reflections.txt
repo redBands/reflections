@@ -1,0 +1,3 @@
+Q1 What happens when you initialize a repository? Why do you need to do it?
+
+The .git directory is created to keep track of repository metadata
